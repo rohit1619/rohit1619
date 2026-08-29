@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Senior Software Engineer at Illumina with a strong focus on the Salesforce ecosystem and software development best practices. I am passionate about improving my coding skills and building scalable, high-quality solutions. Currently, I am strengthening my expertise in Data Structures and Algorithms, System Design, and Software Architecture to enhance my ability to design efficient and robust systems.<br><br>Fun fact: I enjoy solving Rubik’s Cube puzzles and coding challenges, as they help sharpen my problem-solving mindset.
+I am a Senior Software Engineer at Illumina with a strong focus on the Salesforce ecosystem and software development best practices. I am passionate about improving my coding skills and building scalable, high-quality solutions. Currently, I am strengthening my expertise in Data Structures and Algorithms, System Design, and Software Architecture to enhance my ability to design efficient and robust systems.
 
 
 ## 🌐 Socials:
